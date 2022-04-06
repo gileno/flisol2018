@@ -85,7 +85,7 @@ terminado==0.8.1
 testpath==0.3.1
 tornado==5.0.2
 traitlets==4.3.2
-Twisted==17.9.0
+Twisted==22.2.0
 uber-rides==0.6.0
 urllib3==1.22
 w3lib==1.19.0
